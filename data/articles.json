@@ -1,0 +1,69 @@
+{
+  "generated_at": "2026-03-05T10:00:00Z",
+  "articles": [
+    {
+      "id": 1,
+      "url": "https://example.com/nvidia-4tn",
+      "title": "Nvidia Becomes World's First $4tn Company",
+      "content": "Nvidia has become the first company in the world to reach a market value of $4tn. Shares in the chip-maker rose by as much as 2.4% to $164 on Wednesday, as the company continues to benefit from the ongoing surge in demand for the tech that powers artificial intelligence. The US-based company reached a market value of $1tn for the first time in June 2023, and has continued to climb rapidly since. Tech analyst Dan Ives of Wedbush Securities said in a note that this was a historic moment for Nvidia. Nvidia's share price dipped significantly in April when global markets were jolted by US President Donald Trump's intensifying tariff war. Though concerns over Trump's trade policies have not gone away, Nvidia's share price has grown strongly since spring to hit this new landmark. The company reported a total revenue of $44.1bn in the first quarter, marking a 69% jump from a year ago along with a profit of 81 cents a share. CEO Jensen Huang has been dubbed the Taylor Swift of tech by Mark Zuckerberg, reflecting his celebrity status.",
+      "published": "2025-07-09T14:56:18Z",
+      "category": "technology"
+    },
+    {
+      "id": 2,
+      "url": "https://example.com/openai-aws-deal",
+      "title": "OpenAI Signs $38bn Cloud Computing Deal with Amazon",
+      "content": "OpenAI has signed a $38bn contract with Amazon to access its cloud computing infrastructure, as the start-up continues its run of major partnerships to secure computing power. In 2025, the ChatGPT maker has signed deals worth more than $1tn with Oracle, Broadcom, AMD and chip-making giant Nvidia. Its latest deal reduces its reliance on Microsoft. As part of the seven-year agreement, OpenAI will gain access to Nvidia graphics processors to train its artificial intelligence models. Scaling frontier AI requires massive, reliable compute, said OpenAI co-founder and CEO Sam Altman. However, OpenAI has been unprofitable, as it spends big to get ahead in the development of AI technology. Quarterly results from Microsoft last week indicated that OpenAI lost $12bn in just the last quarter. Following the announcement of the deal on Monday, Amazon shares hit an all-time high, adding $140bn to its valuation. The deal with AWS shows that OpenAI considers that its path to leadership is paved with getting access to as much computing power as it can get its hands on, said Kim Forrest, chief investment officer at Bokeh Capital Partners.",
+      "published": "2025-11-03T16:11:36Z",
+      "category": "business"
+    },
+    {
+      "id": 3,
+      "url": "https://example.com/aws-outage",
+      "title": "AWS Outage Raises Questions About Cloud Dependency",
+      "content": "The Amazon Web Services outage on Monday made global headlines after knocking some of the world's largest sites offline for hours. For users, the impacts ranged from the serious, such as not being able to access vital banking, government or work services, to the not-so-serious, such as fears of losing streaks on Duolingo. The outage has reignited the debate around whether countries are over-dependent on a handful of US tech firms. Amazon and Microsoft's cloud services have each cornered somewhere between 30% and 40% of the market in the UK and Europe, according to the Competition and Markets Authority. A cloud deployment is a complicated piece of infrastructure with many components, some invisible, said Prof James Davenport. There is great appeal to using tech giants, but assuming they are too big to fail or inherently resilient is a mistake. The CMA said in July its investigation found the UK cloud services market was not working well. The regulator recommended using its powers to investigate whether to designate Amazon and Microsoft as having strategic market status.",
+      "published": "2025-10-21T19:14:08Z",
+      "category": "technology"
+    },
+    {
+      "id": 4,
+      "url": "https://example.com/meta-data-centres",
+      "title": "Meta to Spend Hundreds of Billions on AI Data Centres",
+      "content": "Meta's founder Mark Zuckerberg has said the social media giant will spend hundreds of billions of dollars on building huge AI data centres in the US. The first multi-gigawatt data centre, called Prometheus, is expected to come online in 2026. He said one of the sites would cover an area nearly the size of Manhattan. Meta has invested heavily in efforts to develop what it called superintelligence, technology that could out-think the smartest humans. The company generated more than $160bn in revenue in 2024. Prometheus will be built in New Albany, Ohio, while Hyperion will be built in Louisiana and is expected to be fully online by 2030. Clearly, Zuckerberg intends to spend his way to the top of the AI heap, said Karl Freund of Cambrian AI Research. AI-driven data centres are extremely energy and water intensive. One study estimates that these centres could consume 1.7 trillion gallons of water globally by 2027. A single AI query can use about as much water as a small bottle.",
+      "published": "2025-07-15T03:59:02Z",
+      "category": "environment"
+    },
+    {
+      "id": 5,
+      "url": "https://example.com/eu-google-investigation",
+      "title": "EU Investigates Google Over AI-Generated Search Summaries",
+      "content": "The EU has opened an investigation into Google over its artificial intelligence summaries which appear above search results. The European Commission said it would examine whether the firm used data from websites to provide this service and if it failed to offer appropriate compensation to publishers. A Google spokesperson said the probe risks stifling innovation in a market that is more competitive than ever. Google's introduction of AI Overview summaries was met with concerns it could result in fewer visitors to websites. The Daily Mail previously claimed the number of people who clicked its links from Google search results fell by around 50% since Google introduced its AI Overview feature. This investigation could not come at a more critical time for creators around the world, said Ed Newton-Rex from Fairly Trained. The Commission's investigation comes down to whether Google has used the work of other people published online to build its own AI tools which it can profit from. The Commission executive vice-president Teresa Ribera said AI was ushering in remarkable innovation and many benefits but its growth should not come at the cost of EU values.",
+      "published": "2025-12-09T11:40:41Z",
+      "category": "policy"
+    },
+    {
+      "id": 6,
+      "url": "https://example.com/short-article",
+      "title": "Quick Market Update",
+      "content": "Stocks rose sharply today. The S&P 500 gained 1.2% while the Nasdaq jumped 1.8%. Tech stocks led the rally.",
+      "published": "2026-01-15T08:30:00Z",
+      "category": "finance"
+    },
+    {
+      "id": 7,
+      "url": "https://example.com/nvidia-intel-deal",
+      "title": "Nvidia Invests $5bn in Rival Intel in Landmark Deal",
+      "content": "Nvidia, the leading manufacturer of artificial intelligence chips, said it will buy a $5bn stake in Intel, a lifeline for its struggling rival on the heels of a separate investment from the US government. The deal will involve a partnership between the two American companies to make personal computer and data centre chips, as demand for AI continues to surge. It will make Nvidia one of Intel's biggest shareholders, with a roughly 4% stake in the troubled semiconductor company. Intel's stock surged more than 25% on news of the deal, which could boost the once-dominant chipmaker. Shares in Nvidia rose roughly 3%. Intel has struggled in recent years to build out more chip capacity. It has fallen far behind rival Nvidia, which has dominated the AI boom by offering chips that are crucial for developing the technology. Nvidia's market cap has soared past $4 trillion while Intel's has languished at around $100bn. The new collaboration represents a fusion of two world-class platforms, Jensen Huang said. In late August, the Trump administration announced that the federal government would take a 10% stake in Intel. Commerce Secretary Howard Lutnick called the White House investment a historic agreement that strengthens US leadership in semiconductors. Nvidia is motivated to invest in Intel in order to diversify some production away from TSMC, said Gil Luria of D.A. Davidson. Meanwhile, AMD and TSMC stand to suffer from the deal.",
+      "published": "2025-09-18T15:34:09Z",
+      "category": "business"
+    },
+    {
+      "id": 8,
+      "url": "https://example.com/deepseek-disruption",
+      "title": "DeepSeek's Rise Challenges Western AI Dominance",
+      "content": "Chinese AI startup DeepSeek has sent shockwaves through the global technology industry with the release of its R1 reasoning model, which rivals the performance of models from OpenAI and Google at a fraction of the cost. The company claims training costs of just $5.6 million compared to the hundreds of millions spent by Western competitors. Wall Street reacted sharply, with Nvidia losing nearly $600bn in market value in a single day, the largest one-day loss for any company in history. Investors fear that DeepSeek's efficiency breakthrough could undermine the massive capital expenditure plans of US tech giants. However, some analysts argue the panic is overblown. The demand for AI compute will only increase as costs fall and adoption rises, said Mark Lipacis of Jefferies. DeepSeek's success has also raised national security concerns in Washington, with lawmakers questioning whether US export controls on advanced chips to China are effective. Despite using older Nvidia H800 chips restricted under export rules, DeepSeek achieved remarkable results through algorithmic innovation rather than brute-force computing power.",
+      "published": "2026-01-28T09:15:00Z",
+      "category": "technology"
+    }
+  ]
+}
